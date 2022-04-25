@@ -6,7 +6,7 @@ import java.util.List;
  * @date : 2022/4/25 11:18 上午
  * @Desc :
  */
-public class _letter_case_permutation {
+public class _784_letter_case_permutation {
 //    public static void main(String[] args) {
 //        System.out.println(letterCasePermutation("a1b2"));
 //    }

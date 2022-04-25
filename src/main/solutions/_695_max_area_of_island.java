@@ -1,6 +1,6 @@
 import java.util.*;
 
-class _JZoffer_the_largest_area_of_the_island {
+class _695_max_area_of_island {
 //    public static void main(String[] args) {
 //        int[][] grid = {
 //                {0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0}

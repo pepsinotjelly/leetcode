@@ -7,7 +7,7 @@ import java.util.List;
  * @date : 2022/4/25 11:09 上午
  * @Desc :
  */
-public class _JZoffer_permute_unique {
+public class _047_permutations_ii {
 //    public static void main(String[] args) {
 //        System.out.println(permuteUnique(new int[]{1,2,1}));
 //    }

@@ -15,7 +15,7 @@ class ListNode {
     }
 }
 
-class _086_partition {
+public class _086_partition {
     public ListNode partition(ListNode head, int x) {
         if (head == null || head.next == null) return head;
         ListNode cur = head;

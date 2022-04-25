@@ -5,7 +5,7 @@ import java.util.*;
  * @date : 2022/4/25 10:37 上午
  * @Desc :
  */
-public class _JZoffer_full_array {
+public class _046_permutations {
 //    public static void main(String[] args) {
 //        int[] nums = {1, 2, 3};
 //        List<List<Integer>> res = permute(nums);
