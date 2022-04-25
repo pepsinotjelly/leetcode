@@ -1,6 +1,3 @@
-package solutions;
-
-
 class _35_search_insert {
     public int searchInsert(int[] nums, int target) {
         int n = nums.length;
