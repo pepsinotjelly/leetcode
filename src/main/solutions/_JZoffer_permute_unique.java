@@ -8,9 +8,9 @@ import java.util.List;
  * @Desc :
  */
 public class _JZoffer_permute_unique {
-    public static void main(String[] args) {
-        System.out.println(permuteUnique(new int[]{1,2,1}));
-    }
+//    public static void main(String[] args) {
+//        System.out.println(permuteUnique(new int[]{1,2,1}));
+//    }
     public static List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> path = new ArrayList<>();
